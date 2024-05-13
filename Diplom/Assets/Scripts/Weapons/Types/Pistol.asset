@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07dfad1edbb4da443878c59ad0e2656b, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  Type: 0
+  Name: Glock
+  ModelPrefab: {fileID: 5912934431396947984, guid: 20050f4bab203e64bb2ac8c7bf6a907c, type: 3}
+  SpawnPoint: {x: 0, y: -0.127, z: 0.458}
+  SpawnRotation: {x: 0, y: 0, z: 0}
+  ShootConfig: {fileID: 11400000, guid: ebd12b92f3297184eb2d42b2f78e9e33, type: 2}
+  TrailConfig: {fileID: 11400000, guid: c2ab35b8cc744534db2fa62bbef63fe3, type: 2}
